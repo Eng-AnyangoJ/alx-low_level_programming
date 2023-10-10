@@ -8,7 +8,6 @@
 int main(void)
 {
 	int i, j;
-
 	for (i = 48; i <= 56; i++)
 	{
 		for (j = 49; j <= 57; j++)
@@ -24,7 +23,7 @@ int main(void)
 				}
 			}
 		}
-		putchar('\n');
-		return (0);
 	}
+	putchar('\n');
+	return (0);
 }
