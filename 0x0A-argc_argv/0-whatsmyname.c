@@ -1,10 +1,10 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * main - program that prints its name
+ * main - program that prints its nam
  *
- * argc: number of command line arguments
- * argv: array containing command line arguments
+ * @argc: argument count
+ * @argv: arguments array
  *
  * Return: (0) SUCCESS
  */
